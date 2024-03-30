@@ -1,11 +1,11 @@
 import SocialButton from "./SocialButton"
 import Formulario from "./Formulario"
 import Alert from "./Alert"
-
+ //No se como enviar los iconos
 const Registro = () => {
     return (
         <>
-        //No se como enviar los iconos
+
         <SocialButton facebook=""  />
         <Formulario/>
         <Alert />
