@@ -6,7 +6,7 @@ const Registro = () => {
     return (
         <>
 
-        <SocialButton facebook=""  />
+        <SocialButton   />
         <Formulario/>
         <Alert />
         </>
